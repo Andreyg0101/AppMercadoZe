@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370668937587",
+    "project_id": "appunimes-15960",
+    "storage_bucket": "appunimes-15960.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370668937587:android:ced99de1db90ec5c39e506",
+        "android_client_info": {
+          "package_name": "br.unimes.appunimes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQJX6Na0XVgAgNsblT0xZ8DjcB5NNLP_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
